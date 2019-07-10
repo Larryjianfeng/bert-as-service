@@ -23,7 +23,7 @@ Author: Han Xiao [https://hanxiao.github.io](https://hanxiao.github.io)
 ## Usage
 
 #### 1. Download the Pre-trained BERT Model
-Download it from [here](https://github.com/google-research/bert#pre-trained-models), then uncompress the zip file into some folder, say `/tmp/english_L-12_H-768_A-12/`
+Download it from [here](https://github.com/google-research/bert#pre-trained-models), then uncompress the zip file into some folder, say `/tmp/english_L-12_H-768_A-12/` . 
 
 
 #### 2. Start a BERT service
